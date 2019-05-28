@@ -11,9 +11,10 @@ header {
     color: white;
     padding: 35px;
     position: relative;
-    height: 35px;
-    top: -25px;
+    height: 100px;
+    top: -33px;
     margin-left: 15%;
+    text-align: center;
 }
 
 #me {
@@ -23,7 +24,7 @@ header {
     color: #4aaaa5;
 }
 
-.t {
+.nav {
     font-size: small;
     color: gray;
     margin-top: 30px;
@@ -165,7 +166,7 @@ footer {
     color: white;
     width: 100px;
     height: 30px;
-    bottom: -225px;
+    bottom: -100px;
     left: 13px;
 }
 
@@ -176,7 +177,7 @@ footer {
     width: 100px;
     height: 30px;
     bottom: -100px;
-    left: 163px;
+    left: 13px;
 }
 
 .ad {
@@ -215,8 +216,6 @@ footer {
     border-color: black;
     border-style: solid;
     position: relative;
-    left: 150px;
-    bottom: 252px;
 }
 
 #box-4 {
